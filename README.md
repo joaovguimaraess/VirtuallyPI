@@ -1,0 +1,1 @@
+### Siga as instruções dos `README.md` que estão dentro das pastas `mernweb` e `server`
